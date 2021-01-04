@@ -1,0 +1,22 @@
+body {
+
+}
+
+.container {
+    margin: auto;
+    width: 100vw;
+    max-width: 1280px;
+    background-color: white;
+}
+
+.container .calculator .num-input {
+    background-color: transparent;
+    padding: 10px;
+    width: 16rem;
+    caret-color: gray;
+}
+
+.label {
+    color: gray;
+    font-size: .8rem;
+}
