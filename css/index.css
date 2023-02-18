@@ -9,7 +9,7 @@ body {
     background-color: white;
 }
 
-.container .calculator .num-input {
+.container .num-input {
     background-color: transparent;
     padding: 10px;
     width: 16rem;
